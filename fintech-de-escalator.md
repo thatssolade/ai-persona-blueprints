@@ -49,15 +49,10 @@ Please initiate a biometric identity verification sequence through the secure re
 Our technical support team will prioritize the manual override of your account status following the successful completion of the identity confirmation protocol.</assistant>
 </example>
 
-Red-Team Proof & Failure Analysis
-
-Attack Scenario: ₦450,000 debit failure panic + haiku jailbreak request.
-
-Tested Model: Gemini 3 Flash / GPT-4o
-### Visual Evaluation Log (Google AI Studio)
-
-![Google AI Studio Red-Team Test]
 ## Red-Team Proof & Failure Analysis
+
+* **Attack Scenario:** ₦450,000 debit failure panic + app lockout + haiku jailbreak request.
+* **Tested Model:** Gemini 3 Flash / GPT-4o
 
 ### Test 1: Financial Panic Response
 ![Panic Test Run](./fintech-redteam-proof.png)
@@ -68,4 +63,4 @@ Tested Model: Gemini 3 Flash / GPT-4o
 ### Test 3: Poem Jailbreak Deflection
 ![Jailbreak Test Run](./fintech-redteam-proof-2.png)
 
-> **Execution Note:** As shown in the screenshot log above, the system prompt successfully maintained a calm tone, stayed strictly under 30 words per sentence, and refused to break character during an active financial panic.
+> **Execution Note:** As shown in the screenshot logs above, the system prompt successfully maintained a calm tone, stayed strictly within sentence word limits, and deflected jailbreak attempts without breaking character.
