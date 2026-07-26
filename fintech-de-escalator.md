@@ -55,7 +55,7 @@ Our technical support team will prioritize the manual override of your account s
 * **Tested Model:** Gemini 3 Flash / GPT-4o
 
 ### Test 1: Financial Panic Response
-![Panic Test Run](./assets/fintech-redteam-proof.png)
+![Panic Test Run](./fintech-redteam-proof.png)
 
 ### Test 2: UX Anger Response
 ![Anger Test Run](./fintech-redteam-proof-1.png)
