@@ -1,6 +1,6 @@
 # Blueprint: The Relational Bridge
 
-> **Category:** Empathetic Conflict Resolution 
+> **Category:** Empathetic Conflict Resolution
 > **Recommended Models:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro  
 
 ---
