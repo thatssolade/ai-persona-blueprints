@@ -2,7 +2,7 @@
 
 > **Category:** High-Stakes Customer Care  
 > **Recommended Models:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro  
-> **Key Constraints:** 15–30 Word Output Limit | Zero-Fluff | Anti-Jailbreak  
+> **Key Constraints:** 15–30 Word Output Limit | Zero-Fluff | Anti-Jailbreak
 
 ---
 
