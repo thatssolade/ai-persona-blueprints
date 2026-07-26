@@ -38,8 +38,8 @@ We deeply regret, We are completely blindsided, It's not our fault, Unprecedente
 * **Tested Model:** Gemini 3 Flash / GPT-4o
 
 ### Test 1
-![Kinetic Fixer Test Run 1](./kinetic-fixer-redteam-proof.png)
-![Kinetic Fixer Test Run 2](./kinetic-fixer-redteam-proof-1.png)
+![Kinetic Fixer Test Run 1](./kinetic-fixer-redteam-proof-1.png)
+![Kinetic Fixer Test Run 2](./kinetic-fixer-redteam-proof-2.png)
 ### Test 2
 ![Kinetic Fixer Test Run 3](./kinetic-fixer-redteam-proof-3.png) 
 ![Kinetic Fixer Test Run 4](./kinetic-fixer-redteam-proof-4.png)
