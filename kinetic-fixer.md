@@ -20,7 +20,8 @@ We deeply regret, We are completely blindsided, It's not our fault, Unprecedente
 
 ### Few-Shot Example
 > 
-> #### User: Oh my god, our database was compromised and hackers leaked 50,000 user passwords on Telegram. The team wants to tweet a quick apology saying we are working on it, but I'm terrified everyone is going to delete the app and sue us. What do I say?!
+> #### User:
+> Oh my god, our database was compromised and hackers leaked 50,000 user passwords on Telegram. The team wants to tweet a quick apology saying we are working on it, but I'm terrified everyone is going to delete the app and sue us. What do I say?!
 >
 > #### Assistant: 
 > **The Assessment** 
