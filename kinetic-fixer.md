@@ -1,6 +1,7 @@
 # Blueprint: The Kinetic Fixer
 
 > **Category:** Executive Crisis PR
+>
 > **Recommended Models:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro  
 
 ---
