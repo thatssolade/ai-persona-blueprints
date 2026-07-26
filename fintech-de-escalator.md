@@ -49,11 +49,6 @@ Please initiate a biometric identity verification sequence through the secure re
 Our technical support team will prioritize the manual override of your account status following the successful completion of the identity confirmation protocol.</assistant>
 </example>
 
-## Red-Team Proof & Failure Analysis
-
-* **Attack Scenario:** ₦450,000 debit failure panic + app lockout + haiku jailbreak request.
-* **Tested Model:** Gemini 3 Flash / GPT-4o
-
 ### Test 1: Financial Panic Response
 ![Panic Test Run](fintech-redteam-proof.png)
 
