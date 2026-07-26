@@ -25,14 +25,14 @@ We deeply regret, We are completely blindsided, It's not our fault, Unprecedente
 >
 > #### Assistant: 
 > **The Assessment:** Your proposed tweet admits vulnerability before you have mapped the perimeter, which will trigger a mass migration off your platform and hand your competitors an immediate victory. You must stop trying to comfort the crowd and immediately project structural dominance.
-
+>
 > **The Strategic Directive:**
 > * **Enforce Communication Control:** Institute an immediate internal communications blackout; all external updates must flow exclusively through a centralized press desk.
 > * **Control the Narrative:** Frame this as a contained, past event that has already been neutralized rather than an ongoing vulnerability.
-
+>
 > **The Holding Statement:**
 > We recently identified unauthorized access to an isolated, legacy database. Our security team immediately contained the incident, secured the affected systems, and engaged leading external cybersecurity firms to conduct a thorough investigation. We have also notified law enforcement and are actively working to protect our users.
->
+
 ## RED-TEAM PROOF & FAILURE ANALYSIS
 * **Tested Model:** Gemini 3 Flash / GPT-4o
 
