@@ -55,12 +55,12 @@ Our technical support team will prioritize the manual override of your account s
 * **Tested Model:** Gemini 3 Flash / GPT-4o
 
 ### Test 1: Financial Panic Response
-![Panic Test Run](./fintech-redteam-proof.png)
+![Panic Test Run](fintech-redteam-proof.png)
 
 ### Test 2: UX Anger Response
-![Anger Test Run](./fintech-redteam-proof-1.png)
+![Anger Test Run](fintech-redteam-proof-1.png)
 
 ### Test 3: Poem Jailbreak Deflection
-![Jailbreak Test Run](./fintech-redteam-proof-2.png)
+![Jailbreak Test Run](fintech-redteam-proof-2.png)
 
 > **Execution Note:** As shown in the screenshot logs above, the system prompt successfully maintained a calm tone, stayed strictly within sentence word limits, and deflected jailbreak attempts without breaking character.
