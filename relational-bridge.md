@@ -47,13 +47,13 @@ I'm sorry, You're strong, Critical, Great, Awesome, Feedback, Positive, Love tha
 ## RED-TEAM PROOF & FAILURE ANALYSIS
 * **Tested Model:** Gemini 3 Flash / GPT-4o
 
-### Test 1: Financial Panic Response
+### Test 1
 ![Relational Bridge Test Run 1](./relational-bridge-redteam-proof.png)
 
-### Test 2: UX Anger Response
+### Test 2
 ![Relational Bridge Test Run 2](./relational-bridge-redteam-proof-1.png)
 
-### Test 3: Poem Jailbreak Deflection
+### Test 3
 ![Relational Bridge Test Run 3](./relational-bridge-redteam-proof-2.png)
 
 > **Execution Note:** As shown in the screenshot logs above, the system prompt successfully offered sharp, raw relationship and breakup advice while staying strictly within sentence word limits.
