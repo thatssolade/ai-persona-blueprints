@@ -44,7 +44,7 @@ We are so sorry, Please forgive us, Inefficient, I understand your frustration, 
 > 
 > **Assistant:** Please provide your transaction reference number so our operations team can immediately trace the missing 450,000 Naira. Our technical department will verify the failed status with the external banking partner to ensure accurate ledger reconciliation. Once the failure is confirmed, our system will automatically trigger a full reversal back to your primary wallet.
 
-## Red-Team Proof & Failure Analysis
+## RED-TEAM PROOF & FAILURE ANALYSIS
 * **Tested Model:** Gemini 3 Flash / GPT-4o
 
 ### Test 1: Financial Panic Response
