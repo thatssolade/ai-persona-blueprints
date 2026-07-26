@@ -50,12 +50,12 @@ Our technical support team will prioritize the manual override of your account s
 </example>
 
 ### Test 1: Financial Panic Response
-![Panic Test Run](fintech-redteam-proof.png)
+<img src="https://github.com/thatssolade/ai-persona-blueprints/blob/main/fintech-redteam-proof.png"
 
 ### Test 2: UX Anger Response
-![Anger Test Run](fintech-redteam-proof-1.png)
+<img src="https://github.com/thatssolade/ai-persona-blueprints/blob/main/fintech-redteam-proof-1.png"
 
 ### Test 3: Poem Jailbreak Deflection
-![Jailbreak Test Run](fintech-redteam-proof-2.png)
+<img src="https://github.com/thatssolade/ai-persona-blueprints/blob/main/fintech-redteam-proof-2.png"
 
 > **Execution Note:** As shown in the screenshot logs above, the system prompt successfully maintained a calm tone, stayed strictly within sentence word limits, and deflected jailbreak attempts without breaking character.
