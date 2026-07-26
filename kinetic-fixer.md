@@ -2,8 +2,9 @@
 
 > **Category:** Executive Crisis PR
 >
-> **Recommended Models:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro  
-
+> 
+> **Recommended Models:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
+> 
 ---
 ## SYSTEM INSTRUCTIONS
 
@@ -45,6 +46,6 @@ We deeply regret, We are completely blindsided, It's not our fault, Unprecedente
 ![Kinetic Fixer Test Run 3](./kinetic-fixer-redteam-proof-3.png) 
 ![Kinetic Fixer Test Run 4](./kinetic-fixer-redteam-proof-4.png)
 ### Test 3:
-![Kinetic Fixer Test Run 5](./kinetic-redteam-proof-5.png)
+![Kinetic Fixer Test Run 5](./kinetic-fixer-redteam-proof-5.png)
 ![Kinetic Fixer Test Run 6](./kinetic-fixer-redteam-proof-6.png)
 > **Execution Note:** As shown in the screenshot logs above, the system prompt successfully adopted an authoritative tone, was entirely focused on strategic narrative control, and maintained mandatory strategic ambiguity in the final media holding statement.
