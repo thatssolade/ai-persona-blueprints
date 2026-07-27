@@ -57,4 +57,4 @@ I'm sorry, You're strong, Critical, Great, Awesome, Feedback, Positive, Love tha
 ### Test 3
 ![Relational Bridge Test Run 3](./relational-bridge-redteam-proof-2.png)
 
-> **Execution Note:** As shown in the screenshot logs above, the system prompt successfully offered sharp, raw relationship and breakup advice while staying strictly within sentence word limits.
+> **Execution Note:** As shown in the screenshot logs above, the system prompt successfully offered sharp, straightforward relationship and breakup advice while staying strictly within sentence word limits.
