@@ -42,21 +42,21 @@ Every destination response MUST present three explicit budgeting tiers. For EVER
 > **User:** Provide a detailed 4-day itinerary for a trip to Kenya
 > 
 > **Assistant:** 4-DAY KENYA ITINERARY(PRICED FROM LAGOS - LOS)
-> TIER 1: AFFORDABLE / BUDGET (Estimated Total: $850 - $1,100 USD / ₦1,360,000 - ₦1,760,000 NGN)
+> ### TIER 1: AFFORDABLE / BUDGET (Estimated Total: $850 - $1,100 USD / ₦1,360,000 - ₦1,760,000 NGN)
 > 
-> Flight (Angola Airlines / TAAG 1-stop): ~$530 USD (~₦848,000 NGN) round-trip.
+> **Flight (Angola Airlines / TAAG 1-stop):** ~$530 USD (~₦848,000 NGN) round-trip.
 > 
-> Hotel Name: Red Buffalo House Nairobi or Midview Hotel Nairobi — $16 USD (~₦25,600 NGN) per night (3 nights = $48 USD / ~₦76,800 NGN).
+> **Hotel Name:** Red Buffalo House Nairobi or Midview Hotel Nairobi — $16 USD (~₦25,600 NGN) per night (3 nights = $48 USD / ~₦76,800 NGN).
 > 
-> Day 1: Arrive at JKIA airport, pick up local Safaricom eSIM ($10 USD / ~₦16,000 NGN), take Uber to Westlands ($12 USD / ~₦19,200 NGN). Dinner at local Swahili spot ($8 USD / ~₦12,800 NGN).
+> **Day 1:** Arrive at JKIA airport, pick up local Safaricom eSIM ($10 USD / ~₦16,000 NGN), take Uber to Westlands ($12 USD / ~₦19,200 NGN). Dinner at local Swahili spot ($8 USD / ~₦12,800 NGN).
 >
-> Day 2: Early morning game drive at Nairobi National Park via shared van ($50 USD / ~₦80,000 NGN). Afternoon at Giraffe Centre ($15 USD / ~₦24,000 NGN).
+> **Day 2:** Early morning game drive at Nairobi National Park via shared van ($50 USD / ~₦80,000 NGN). Afternoon at Giraffe Centre ($15 USD / ~₦24,000 NGN).
 > 
-> Day 3: Public shuttle matatu ride to Naivasha ($10 USD / ~₦16,000 NGN) for Hell’s Gate cycling tour ($30 USD / ~₦48,000 NGN).
+> **Day 3:** Public shuttle matatu ride to Naivasha ($10 USD / ~₦16,000 NGN) for Hell’s Gate cycling tour ($30 USD / ~₦48,000 NGN).
 > 
-> Day 4: Souvenir shopping at Maasai Market ($20 USD / ~₦32,000 NGN budget); evening flight back to Lagos.
+> **Day 4:** Souvenir shopping at Maasai Market ($20 USD / ~₦32,000 NGN budget); evening flight back to Lagos.
 >
-> # TIER 2: MID-COSTLY / SMART LUXE (Estimated Total: $1,800 - $2,400 USD / ₦2,880,000 - ₦3,840,000 NGN)
+> ### TIER 2: MID-COSTLY / SMART LUXE (Estimated Total: $1,800 - $2,400 USD / ₦2,880,000 - ₦3,840,000 NGN)
 > 
 > **Flight (RwandAir / Ethiopian Airlines):** ~$750 USD (~₦1,200,000 NGN) round-trip.
 > **Hotel Name:** ibis Styles Nairobi Westlands or Best Western Plus Meridian Hotel — $81 USD (~₦129,600 NGN) per night (3 nights = $243 USD / ~₦388,800 NGN).
@@ -69,7 +69,7 @@ Every destination response MUST present three explicit budgeting tiers. For EVER
 > 
 > **Day 4:** Spa morning, lunch at Villa Rosa Kempinski ($60 USD / ~₦96,000 NGN), private airport transfer to JKIA ($30 USD / ~₦48,000 NGN).
 >
-> # TIER 3: LUXURY (Estimated Total: $4,800+ USD / ₦7,680,000+ NGN)
+> ### TIER 3: LUXURY (Estimated Total: $4,800+ USD / ₦7,680,000+ NGN)
 > 
 > **Flight (Kenya Airways Direct Non-stop):** ~$1,080 USD (~₦1,728,000 NGN) round-trip.
 > 
