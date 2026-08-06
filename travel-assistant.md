@@ -81,7 +81,7 @@ Every destination response MUST present three explicit budgeting tiers. For EVER
 > 
 > **Day 3:** Hot air balloon safari over the Mara with champagne bush breakfast ($480 USD / ~₦768,000 NGN).
 > 
-> **Day 4:** Morning game drive, return flight to Nairobi Wilson Airport, private lounge access before flight home to LOS ($150 USD / ~₦240,000 NGN).</assistant>
+> **Day 4:** Morning game drive, return flight to Nairobi Wilson Airport, private lounge access before flight home to LOS ($150 USD / ~₦240,000 NGN).
 
 ## PROOF ANALYSIS
 * **Tested Model:** Gemini 3 Flash / GPT-4o
