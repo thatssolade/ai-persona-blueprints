@@ -85,4 +85,4 @@ Every destination response MUST present three explicit budgeting tiers. For EVER
 
 ## PROOF ANALYSIS
 * **Tested Model:** Gemini 3 Flash / GPT-4o
-/https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221n8UBn_6OOAsDnnZCbgBMIMvKAiQNV7Iu%22%5D,%22action%22:%22open%22,%22userId%22:%22111038566492688835819%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+> /https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221n8UBn_6OOAsDnnZCbgBMIMvKAiQNV7Iu%22%5D,%22action%22:%22open%22,%22userId%22:%22111038566492688835819%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
