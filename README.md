@@ -9,4 +9,4 @@ Production-grade system instructions, guardrails, and stress-tested proofs for e
 4. [The Travel Assistant](./travel-assistant.md) — Specialized consultant for up-to-date travel information and itineraries.
 
 ---
-*Created by Lade Omotade — AI Persona Designer*
+*Created by [Lade Omotade](https://thatssolade.framer.website) — AI Persona Designer*
